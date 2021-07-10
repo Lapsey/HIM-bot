@@ -1,5 +1,5 @@
 {
-  "name": "discordBots",
+  "name": "HimBot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/Lapsey/HIM-bot#readme",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "emoji-to-short-name": "^1.0.1",
+    "gemoji": "^7.0.0",
+    "html-to-text": "^8.0.0",
+    "node-schedule": "^2.0.0"
   }
 }
